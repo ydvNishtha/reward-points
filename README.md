@@ -15,7 +15,7 @@ npm start
 npm run build
 ```
 
-Here  is  the demo of the project in case you are interested to see
+Here  is  the demo of the project in case you are interested to see(make sure you **zoom-out** github page to see full demo fit in browser screen)
 
 ![ Customer reward points demo](/image/CustomerRewardspointsDemo.gif)
 
